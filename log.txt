@@ -1,0 +1,104 @@
+---------------------------------------------------------------------
+Round 1
+---------------------------------------------------------------------
+
+Dealers Cards:
+SPADE THREE, CLUB THREE, DIAMOND FIVE, DIAMOND SEVEN, SPADE NINE
+
+Player Player 1 cards:
+DIAMOND TWO,HEART FOUR,DIAMOND SIX,SPADE SEVEN,SPADE KING
+
+Player Player 2 cards:
+SPADE TWO,HEART THREE,DIAMOND KING,CLUB KING,DIAMOND ACE
+
+Player Player 3 cards:
+CLUB FIVE,HEART NINE,DIAMOND TEN,SPADE QUEEN,HEART KING
+
+Player Player 4 cards:
+HEART SIX,CLUB SEVEN,HEART JACK,CLUB JACK,HEART ACE
+
+Dealer   :
+Player 1 :High Card
+Player 2 :One Pair
+Player 3 :High Card
+Player 4 :One Pair
+
+Player 2 is the winner of this round.
+
+	      -------- SCORECARD AFTER 1st ROUND --------
+Player                     Score                     Probability of winning the game
+Dealer                    0                                  0.00
+Player 1                    -1                                  0.00
+Player 2                    10                                  100.00
+Player 3                    -1                                  0.00
+Player 4                    -1                                  0.00
+---------------------------------------------------------------------
+Round 2
+---------------------------------------------------------------------
+
+Dealers Cards:
+HEART TWO, HEART FOUR, CLUB FIVE, DIAMOND SEVEN, HEART JACK
+
+Player Player 1 cards:
+SPADE TWO,SPADE FIVE,CLUB SIX,HEART SEVEN,DIAMOND TEN
+
+Player Player 2 cards:
+CLUB SEVEN,CLUB EIGHT,SPADE EIGHT,CLUB NINE,SPADE QUEEN
+
+Player Player 3 cards:
+DIAMOND TWO,HEART FIVE,HEART SIX,SPADE TEN,SPADE JACK
+
+Player Player 4 cards:
+HEART THREE,SPADE THREE,HEART QUEEN,DIAMOND QUEEN,SPADE KING
+
+Dealer   :
+Player 1 :High Card
+Player 2 :One Pair
+Player 3 :High Card
+Player 4 :Tow Pairs
+
+Player 4 is the winner of this round.
+
+	      -------- SCORECARD AFTER 2st ROUND --------
+Player                     Score                     Probability of winning the game
+Dealer                    0                                  0.00
+Player 1                    -2                                  0.00
+Player 2                    9                                  50.00
+Player 3                    -2                                  0.00
+Player 4                    9                                  50.00
+---------------------------------------------------------------------
+Round 3
+---------------------------------------------------------------------
+
+Dealers Cards:
+CLUB TWO, HEART FIVE, CLUB SEVEN, CLUB QUEEN, DIAMOND KING
+
+Player Player 1 cards:
+DIAMOND FOUR,CLUB FIVE,SPADE SIX,HEART TEN,SPADE ACE
+
+Player Player 2 cards:
+HEART NINE,SPADE NINE,CLUB NINE,CLUB KING,CLUB ACE
+
+Player Player 3 cards:
+SPADE TWO,DIAMOND TWO,DIAMOND THREE,SPADE THREE,CLUB FOUR
+
+Player Player 4 cards:
+HEART TWO,CLUB THREE,DIAMOND FIVE,HEART SEVEN,DIAMOND TEN
+
+Dealer   :
+Player 1 :High Card
+Player 2 :Tow Pairs
+Player 3 :Tow Pairs
+Player 4 :High Card
+
+Player 2 is the winner of this round.
+
+	      -------- SCORECARD AFTER 3st ROUND --------
+Player                     Score                     Probability of winning the game
+Dealer                    0                                  0.00
+Player 1                    -3                                  0.00
+Player 2                    19                                  66.67
+Player 3                    -3                                  0.00
+Player 4                    8                                  33.33
+
+THE WINNER OF WHOLE GAME AFTER 3 ROUNDS IS Player 2
